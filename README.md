@@ -52,6 +52,11 @@ print(f"🗓️ Day: {day_name}")
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## 👨‍💻 Author
+
+**Muhammad Sajid**
+- 📧 Email: [dev.sajid09@gmail.com](mailto:dev.sajid09@gmail.com)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

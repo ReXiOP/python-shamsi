@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "python-shamsi"
-version = "0.1.0"
+version = "1.0.0"
 description = "A Python library for Julian Day and Solar Date conversions."
 readme = "README.md"
 authors = [
-  { name = "Sawban", email = "sawban@example.com" },
+  { name = "Muhammad Sajid", email = "dev.sajid09@gmail.com" },
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
