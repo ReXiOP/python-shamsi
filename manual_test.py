@@ -1,7 +1,7 @@
-from sammsi_calendar import JulianDay, SOLAR_DAYS_NAME, SOLAR_MONTHS_NAME
+from shamsi import JulianDay, SOLAR_DAYS_NAME, SOLAR_MONTHS_NAME
 
 def test_manual():
-    print("--- Manual Test of Sammsi Calendar Package ---")
+    print("--- Manual Test of Shamsi Calendar Package ---")
     
     # Test Date: December 1, 2025
     year, month, day = 2025, 12, 1

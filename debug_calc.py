@@ -1,4 +1,4 @@
-from sammsi_calendar import JulianDay, SOLAR_DAYS_NAME, SOLAR_MONTHS_NAME
+from shamsi import JulianDay, SOLAR_DAYS_NAME, SOLAR_MONTHS_NAME
 
 def debug_conversion():
     print("--- Debugging Conversion for 2025-12-01 ---")

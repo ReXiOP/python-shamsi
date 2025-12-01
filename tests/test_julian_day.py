@@ -1,5 +1,5 @@
 import unittest
-from sammsi_calendar import JulianDay, SOLAR_DAYS_NAME, SOLAR_MONTHS_NAME
+from shamsi import JulianDay, SOLAR_DAYS_NAME, SOLAR_MONTHS_NAME
 
 class TestJulianDay(unittest.TestCase):
     def test_to_julian(self):

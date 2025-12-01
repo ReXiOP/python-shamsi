@@ -1,11 +1,11 @@
-# 🌞 Sammsi Calendar
+# 🌞 Shamsi Calendar
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**Sammsi Calendar** is a powerful and easy-to-use Python library designed for seamless conversion between **Gregorian dates**, **Julian Day Numbers**, and a custom **Solar Calendar**.
+**Shamsi Calendar** is a powerful and easy-to-use Python library designed for seamless conversion between **Gregorian dates**, **Julian Day Numbers**, and a custom **Solar Calendar**.
 
-Whether you are building an astronomical application, a historical date converter, or a specialized scheduling tool, Sammsi Calendar provides the precision and flexibility you need.
+Whether you are building an astronomical application, a historical date converter, or a specialized scheduling tool, Shamsi Calendar provides the precision and flexibility you need.
 
 ---
 
@@ -21,7 +21,7 @@ Whether you are building an astronomical application, a historical date converte
 Install the package easily via pip:
 
 ```bash
-pip install sammsi_calendar
+pip install python-shamsi
 ```
 
 ## 🛠️ Usage
@@ -29,7 +29,7 @@ pip install sammsi_calendar
 Here is a quick example to get you started:
 
 ```python
-from sammsi_calendar import JulianDay, SOLAR_DAYS_NAME, SOLAR_MONTHS_NAME
+from shamsi import JulianDay, SOLAR_DAYS_NAME, SOLAR_MONTHS_NAME
 
 # 1. Convert Gregorian to Solar Date
 # Input: Year, Month, Day
